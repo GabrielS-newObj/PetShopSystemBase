@@ -3,9 +3,9 @@
 
 ### The System allows:
 1.Register  
-2.Delete 
-3.manager 
-4.print 
+2.Delete    
+3.manager    
+4.print    
 
 
   _Used with terminal as stdout for training Java skills_
