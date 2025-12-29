@@ -1,1 +1,12 @@
-Note: fast tools like search by "dono", "pet" and keys to permise delete all instances from one class could be, and probely is better, implemented;
+## Capacity of keep data from differents pet and the owner 
+
+
+### The System allows:
+1.Register 
+2.Delete
+3.manager
+4.print 
+
+
+  _Used with terminal as stdout for training Java skills_
+
