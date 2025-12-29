@@ -2,9 +2,9 @@
 
 
 ### The System allows:
-1.Register 
-2.Delete
-3.manager
+1.Register  
+2.Delete 
+3.manager 
 4.print 
 
 
